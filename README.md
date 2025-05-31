@@ -1,1 +1,3 @@
 # Witness-Game
+
+Witness is a game of saving "Mother" when she is locked up. The player goes on a journey full of enemies and fire. The goal is to pass the fires and enemies and get to the key which will open the door to set "Mother" free. Your worst enemy is time, you have 90 seconds to finish the task. When you burn, fall or get caught by the enemy the time does not reset unless it is "GameOver". When the timer runs out, you die! Then the timer resets if you are brave enough to retry. 
